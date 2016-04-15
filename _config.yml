@@ -1,0 +1,28 @@
+name: "That's O.D."
+favicon: null
+layout_spectrum: 0.11881054751574993
+typography_spectrum: 0.15064405393786728
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9775228209327906
+  lightness: 0.5204966445453465
+  saturation: 0.7496765586547554
+  rhythmicContrast: 0.5906423304695636
+purpose: []
