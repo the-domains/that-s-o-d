@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[That's O.D.]]></title>
+        <description><![CDATA[That's O.D.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 May 2016 06:28:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RAAD Fest]]></title>
+            <description><![CDATA[<article><h1>RAAD Fest</h1><p>RAAD FestAugust 4-7, 2016San Diego, CA The revolution against aging and death starts with you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b2113a1d4fb0233802a08fa09fa79d1dc92e97f.jpg"></article>]]></description>
+            <link>http://raadfest.com/</link>
+            <guid isPermaLink="false">13ae1c2a-1f53-4ec7-b545-c114e4bdfcc3</guid>
+            <pubDate>Sun, 08 May 2016 06:28:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
